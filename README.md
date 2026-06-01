@@ -1,4 +1,4 @@
-# git-test 
+# git-test - feature/conflict-testから編集
 
 git練習用リポジトリです
 

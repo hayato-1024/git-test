@@ -1,4 +1,4 @@
-# git-test 
+# git-test - mainから編集
 
 git練習用リポジトリです
 
